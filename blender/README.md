@@ -49,9 +49,9 @@ you might find interesting stuff inside 😉.
 
 There are three controls you should know of :
 
-- Rotate
-- Zoom
-- Pane
+- Rotate `middle click` or drag on the three axis on the top right corner of the viewport.
+- Zoom `mouse wheel` or drag the magnifying glass.
+- Pane `shift` + `middle click` or drag the hand icon.
 
 More tips:
 
