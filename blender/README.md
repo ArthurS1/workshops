@@ -35,9 +35,11 @@ on [blender.org](https://www.blender.org/download/) and add it to your path.
 
 Let's begin by a few important facts on the user interface :
 
-- Blender has a modular interface composed of multiple windows.
+- Blender has a modular interface composed of multiple windows. They can be resized, reordered, added and deleted.
+![Windows](https://i.postimg.cc/PqpWqxZ3/image.png)
 
 - They are themself arranged within workspaces in the top bar.
+![Workspaces bar](https://i.postimg.cc/sgWqZVpX/blender-workspaces.png)
 
 - You should also checkout the pannel settings,
 you might find interesting stuff inside 😉.
@@ -50,8 +52,16 @@ you might find interesting stuff inside 😉.
 There are three controls you should know of :
 
 - Rotate `middle click` or drag on the three axis on the top right corner of the viewport.
+
+![Rotating blender](https://i.postimg.cc/JzZSv1YX/Kooha-12-09-2021-22-46-13.gif)
+
 - Zoom `mouse wheel` or drag the magnifying glass.
+
+![Zooming blender](https://i.postimg.cc/25YgfPgK/Kooha-12-09-2021-22-47-30.gif)
+
 - Pane `shift` + `middle click` or drag the hand icon.
+
+![Panning blender](https://i.postimg.cc/gkffgwsd/Kooha-12-09-2021-22-47-58.gif)
 
 More tips:
 
