@@ -33,26 +33,32 @@ on [blender.org](https://www.blender.org/download/) and add it to your path.
 
 ### User interface
 
+Let's begin by a few important facts on the user interface :
+
+- Blender has a modular interface composed of multiple windows.
+
+- They are themself arranged within workspaces in the top bar.
+
+- You should also checkout the pannel settings,
+you might find interesting stuff inside 😉.
+
 > 💡 The ui is quite complete and complex, a good way to discover it is 
 [blender docs](https://docs.blender.org/manual/en/latest/).
 
-- checkout the way blender interface is modular
-- checkout the settings
-- checkout the different workspaces
-
 ### Moving around in the viewport
 
-- rotate
-- zoom
-- view
+There are three controls you should know of :
 
-coordinates
+- Rotate
+- Zoom
+- Pane
 
-orthographic / normal view
+More tips:
+
+- The coordinates in blender are expressed in X, Y and Z (up) - 
+It's not the case in all software !
+- You should checkout orthographic and normal view, can be usefull sometimes.
 
 ---
 
 ## Low poly modeling
-
-###
-
