@@ -9,15 +9,13 @@
 	* User interface
 	* Moving
 * Low poly modeling
-	* What is low poly ?
-	* 3d modeling concepts
-	* Your first low poly model
+	* Is low poly some kind of sect ?
+	* You said vertex ?
+	* Let's practice !
 * Animating models
 	* 3d animation concepts
 	* Your first animation
 	* Introduction to rigging
-
-----
 
 ## Installation
 
@@ -72,3 +70,66 @@ It's not the case in all software !
 ---
 
 ## Low poly modeling
+
+### Is low poly some kind of sect ?
+
+["Low poly"](https://fr.wikipedia.org/wiki/Low_poly) is short for low polygon count. It can be described from an aesthetic point or performance point of view :
+
+- In video games, game engines will take longer to render models with high polygon count. Thus, back in the early days of 3D games, low poly models were used as a way to gain performances.
+- Nowadays computers have munch beeffier cpus and even gpu. Consequently, low polygon models have lost their performance upperhand but have had a comeback with their use in more artistic and abstract games.
+
+Example of low poly [renders](https://en.wikipedia.org/wiki/3D_rendering):
+
+![Low poly street](https://www.designyourway.net/blog/wp-content/uploads/2019/03/sf-700x525.jpg)
+
+![Low poly lighthouse](https://www.designyourway.net/blog/wp-content/uploads/2019/03/lighthouse-700x525.jpg)
+
+![Low poly soldier](https://media.sketchfab.com/models/8dd47904297445cf9a628f71a3b5250a/thumbnails/174d70840b494e7b83afc82e7f864cd0/b185e2b7e1b940908d580978f4f5118d.jpeg)
+
+![Low poly tanks](https://img1.cgtrader.com/items/2942279/93fb489591/large/set-of-low-poly-tanks-3d-model-max-obj-fbx.jpg)
+
+You can also just search [low poly on sketchfab](https://sketchfab.com/search?q=low+poly&type=models) (a 3d model sharing website).
+
+### You said vertex ?
+
+3d modeling is based on atoms: vertices (one **vertex**, two **vertices**), edges and faces.
+
+- A vertex is a simple point in 3d space. Here we create 3 vertices A, B and C. They All have 3 coordinates since we are in 3d space (x, y, z).
+
+![Vertices](https://i.postimg.cc/bw4TvMvC/first.png)
+
+- An edge links two vertices. We just link all our vertices with each other to form a triangle.
+
+![Edges](https://i.postimg.cc/RCPwF8s7/second.png)
+
+- A face links 3 or more edges.
+> ❗ Be carefull, in blender you can create a face from any amout of edges, but it might not end well ! [You can always triangulate you face after the fact anyway](https://docs.blender.org/manual/en/latest/modeling/meshes/editing/face/triangulate_faces.html).
+
+![Face](https://i.postimg.cc/tJgPktTn/third.png)
+
+### Let's Practice
+
+#### Step 1 - delete them all
+
+> - Delete the cube and the sun in the default scene
+
+#### Step 2 - make leafs
+
+> - Create a eco sphere of radius 1.1 with 1 subdivision
+> - Move it to the coordinates (0, 0, 2)
+> - Randomize it's mesh
+
+#### Step 3 - the trunk
+
+> - Create a new cube of 0.5m sides
+> - Extract it's top face to 1.5m to meet the leafs
+> - Resize the face you just extracted to 80% of it's original size
+> - Randomize the trunk 
+
+#### Step 4 - texturin' time
+
+> - Download the sample texture here
+> - Unwrap your two objects
+> - Asign the trunck to the brown pixel and the leafs to the green pixel
+
+## Animating models
