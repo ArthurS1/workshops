@@ -85,7 +85,7 @@ Rendering engines will take longer to render models with high polygon count. Thu
 
 Nowadays computers have a lot more performant cpus and gpus. Consequently, low polygon models have lost their performance interest. It is noteworthy that they  have had a comeback with their use in more artistic and abstract modeling (see below).
 
-Example of low poly [renders](https://en.wikipedia.org/wiki/3D_rendering):
+Examples of low poly [renders](https://en.wikipedia.org/wiki/3D_rendering):
 
 ![Low poly street](https://www.designyourway.net/blog/wp-content/uploads/2019/03/sf-700x525.jpg)
 
