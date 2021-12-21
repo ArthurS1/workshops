@@ -62,7 +62,7 @@ There are three controls you should know of :
 
 - Pane with `shift` + `middle click` or drag the hand icon.
 
-![Panning blender](https://i.postimg.cc/gkffgwsd/Kooha-12-09-2021-22-47-58.gif)
+![Panning blender](https://i.postimg.cc/gkKhYvVL/Kooha-12-09-2021-22-47-58-online-video-cutter-com.gif)
 
 More tips:
 
