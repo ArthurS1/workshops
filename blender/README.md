@@ -52,23 +52,24 @@ stuff inside.
 
 There are three controls you should know of :
 
-- Rotate `middle click` or drag on the three axis on the top right corner of the viewport.
+- Rotate with `middle click` or drag on the three axis on the top right corner of the viewport.
 
 ![Rotating blender](https://i.postimg.cc/JzZSv1YX/Kooha-12-09-2021-22-46-13.gif)
 
-- Zoom `mouse wheel` or drag the magnifying glass.
+- Zoom with `mouse wheel` or drag the magnifying glass.
 
 ![Zooming blender](https://i.postimg.cc/25YgfPgK/Kooha-12-09-2021-22-47-30.gif)
 
-- Pane `shift` + `middle click` or drag the hand icon.
+- Pane with `shift` + `middle click` or drag the hand icon.
 
 ![Panning blender](https://i.postimg.cc/gkffgwsd/Kooha-12-09-2021-22-47-58.gif)
 
 More tips:
 
 - The coordinates in blender are expressed in X, Y and Z (up) - 
-It's not the case in all software !
-- You should checkout orthographic and normal view, can be usefull sometimes.
+It's not the case in all 3d software or graphic libraries!
+- You should checkout the orthographic view. It permits you to eliminate all fov problems
+and make precise modifications.
 
 ---
 
