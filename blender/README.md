@@ -17,7 +17,9 @@
 	* Your first animation
 	* Introduction to rigging
 
-## Installation
+## Blender basics
+
+### Installation
 
 > ✅ Version required is **2.8** or superior. To check that do 
 `blender --version` or `flatpak run org.blender.Blender --version`.
@@ -33,14 +35,15 @@ on [blender.org](https://www.blender.org/download/) and add it to your path.
 
 Let's begin by a few important facts on the user interface :
 
-- Blender has a modular interface composed of multiple windows. They can be resized, reordered, added and deleted.
+- Blender has a modular interface composed of multiple panels within a window.
+They can be resized, reordered, added, deleted or detatched.
 ![Windows](https://i.postimg.cc/PqpWqxZ3/image.png)
 
 - They are themself arranged within workspaces in the top bar.
 ![Workspaces bar](https://i.postimg.cc/sgWqZVpX/blender-workspaces.png)
 
-- You should also checkout the pannel settings,
-you might find interesting stuff inside 😉.
+- You should also checkout the settings window, you may find interesting
+stuff inside.
 
 > 💡 The ui is quite complete and complex, a good way to discover it is 
 [blender docs](https://docs.blender.org/manual/en/latest/).
