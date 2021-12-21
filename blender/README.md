@@ -77,13 +77,21 @@ and make precise modifications.
 
 ### Is low poly some kind of sect ?
 
-["Low poly"](https://fr.wikipedia.org/wiki/Low_poly) is short for low polygon count. It can be used for performances or aesthetics. 
+["Low poly"](https://fr.wikipedia.org/wiki/Low_poly) is short for low polygon count.
+It can be used for performances or aesthetics. 
 
-Rendering engines will take longer to render models with high polygon count. Thus, back in the early days of 3D games, low poly models were used as a way to gain performances.
+Rendering engines will take longer to render models with high polygon count.
+Thus, back in the early days of 3D games, low poly models were used as a way
+to gain performances.
 
-> 💡 In blender, polygon count (or poly count) can be seen in the bottom left corner of the window for version < 2.9 and by checking statistics in the viewport overlay in newer versions. 
+> 💡 In blender, polygon count (or poly count) can be seen in the bottom left
+corner of the window for version < 2.9 and by checking statistics in the viewport
+overlay in newer versions. 
 
-Nowadays computers have a lot more performant cpus and gpus. Consequently, low polygon models have lost their performance interest. It is noteworthy that they  have had a comeback with their use in more artistic and abstract modeling (see below).
+Nowadays computers have a lot more performant cpus and gpus. Consequently,
+low polygon models have lost their performance interest. It is noteworthy
+that they  have had a comeback with their use in more artistic and abstract
+modeling (see below).
 
 Examples of low poly [renders](https://en.wikipedia.org/wiki/3D_rendering):
 
@@ -95,15 +103,20 @@ Examples of low poly [renders](https://en.wikipedia.org/wiki/3D_rendering):
 
 ![Low poly tanks](https://img1.cgtrader.com/items/2942279/93fb489591/large/set-of-low-poly-tanks-3d-model-max-obj-fbx.jpg)
 
-> ❗ We won't go much into details about rendering since I feel it's a bit out of the scope of this workshop. Anyway, feel free to add a camera and some lights to your scene and a few settings later you will have a render.
+> ❗ We won't go much into details about rendering since I feel it's a bit out
+of the scope of this workshop. Anyway, feel free to add a camera and some lights
+to your scene and a few settings later you will have a render.
 
-You can also just search [low poly on sketchfab](https://sketchfab.com/search?q=low+poly&type=models) (a 3d model sharing website).
+You can also just search [low poly on sketchfab](https://sketchfab.com/search?q=low+poly&type=models)
+(a 3d model sharing website).
 
 ### You said vertex ?
 
-3d modeling is based on atoms: vertices (one **vertex**, two **vertices**), edges and faces.
+Creating 3d objects is done using three basic atoms: vertices (one **vertex**, two **vertices**),edges and faces.
+Let's go through what they are.
 
-- A vertex is a simple point in 3d space. Here we create 3 vertices A, B and C. They All have 3 coordinates since we are in 3d space (x, y, z).
+- A vertex is a simple point in 3d space. Here we create 3 vertices A, B and C. They All have 3 coordinates
+(x, y, z).
 
 ![Vertices](https://i.postimg.cc/bw4TvMvC/first.png)
 
@@ -112,7 +125,8 @@ You can also just search [low poly on sketchfab](https://sketchfab.com/search?q=
 ![Edges](https://i.postimg.cc/RCPwF8s7/second.png)
 
 - A face links 3 or more edges.
-> ❗ Be carefull, in blender you can create a face from any amout of edges, but it might not end well ! [You can always triangulate you face after the fact anyway](https://docs.blender.org/manual/en/latest/modeling/meshes/editing/face/triangulate_faces.html).
+> ❗ Be carefull, in blender you can create a face from any amout of edges, but it might
+not end well ! [You can always triangulate you face after the fact anyway](https://docs.blender.org/manual/en/latest/modeling/meshes/editing/face/triangulate_faces.html).
 
 ![Face](https://i.postimg.cc/tJgPktTn/third.png)
 
@@ -150,7 +164,9 @@ You can also just search [low poly on sketchfab](https://sketchfab.com/search?q=
 
 ### 3d animation concepts
 
-[3d animation](https://fr.wikipedia.org/wiki/Animation_3D) is the way you can move vertices through time. To do so, you can specify several positions to a vertice called keyframes. The keyframes values are then interpolated the way you want to obtain movment.
+[3d animation](https://fr.wikipedia.org/wiki/Animation_3D) is the way you can move vertices
+through time. To do so, you can specify several positions to a vertice called keyframes. The
+keyframes values are then interpolated the way you want to obtain movment.
 
 ### Your first 3d animation
 
@@ -182,7 +198,8 @@ You can also just search [low poly on sketchfab](https://sketchfab.com/search?q=
 
 ### Intro to rigging
 
-Up until now we have only been moving, rotating & scaling entire objects. But what is you want to animate vertices ?
+Up until now we have only been moving, rotating & scaling entire objects. But what
+is you want to animate vertices ?
 Well there are a few ways of doing just that.
 
 #### Step 1 - the wind on the leaves
@@ -197,7 +214,8 @@ Well there are a few ways of doing just that.
 
 #### Step 3 - steve walk cycle
 
-> - Download steve.blend and append (checkout the difference between appending and linking external blender libraries) it to your project with the tree
+> - Download steve.blend and append (checkout the difference between appending and linking
+external blender libraries) it to your project with the tree
 > - Create an armature
 > - Add bones
 > - Modify weights
