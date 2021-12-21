@@ -36,7 +36,7 @@ on [blender.org](https://www.blender.org/download/) and add it to your path.
 Let's begin by a few important facts on the user interface :
 
 - Blender has a modular interface composed of multiple panels within a window.
-They can be resized, reordered, added, deleted or detatched.
+They can be resized, reordered, added, deleted or detatched. (try hovering your mouse on the corner of a pannel and dragging it)
 ![Windows](https://i.postimg.cc/PqpWqxZ3/image.png)
 
 - They are themself arranged within workspaces in the top bar.
