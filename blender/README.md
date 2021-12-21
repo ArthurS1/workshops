@@ -132,4 +132,35 @@ You can also just search [low poly on sketchfab](https://sketchfab.com/search?q=
 > - Unwrap your two objects
 > - Assign the trunck to the brown pixel and the leafs to the green pixel
 
+#### Bonus round
+
+> - Checkout blender render features
+> - Checkout blender lighting features
+
 ## Animating models
+
+
+
+
+### Intro to rigging
+
+Up until now we have only been moving, rotating & scaling entire objects. But what is you want to animate vertices ?
+Well there are a few ways of doing just that.
+
+#### Step 1 - the wind on the leaves
+
+> - Use shape keys to interpolate between two randomization of the trees leaves
+
+#### Step 2 - the wind on the entire tree
+
+> - Create a NURBS curve
+> - Link the curve with a curve modifier to your tree
+> - Make it wiggle with shape keys
+
+#### Step 3 - steve walk cycle
+
+> - Download steve.blend and append (checkout the difference between appending and linking external blender libraries) it to your project with the tree
+> - Create an armature
+> - Add bones
+> - Modify weights
+> - Make him walk !
