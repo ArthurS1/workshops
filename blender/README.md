@@ -95,6 +95,8 @@ Examples of low poly [renders](https://en.wikipedia.org/wiki/3D_rendering):
 
 ![Low poly tanks](https://img1.cgtrader.com/items/2942279/93fb489591/large/set-of-low-poly-tanks-3d-model-max-obj-fbx.jpg)
 
+> ❗ We won't go much into details about rendering since I feel it's a bit out of the scope of this workshop. Anyway, feel free to add a camera and some lights to your scene and a few settings later you will have a render.
+
 You can also just search [low poly on sketchfab](https://sketchfab.com/search?q=low+poly&type=models) (a 3d model sharing website).
 
 ### You said vertex ?
