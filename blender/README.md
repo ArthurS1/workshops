@@ -139,8 +139,37 @@ You can also just search [low poly on sketchfab](https://sketchfab.com/search?q=
 
 ## Animating models
 
+### 3d animation concepts
 
+[3d animation](https://fr.wikipedia.org/wiki/Animation_3D) is the way you can move vertices through time. To do so, you can specify several positions to a vertice called keyframes. The keyframes values are then interpolated the way you want to obtain movment.
 
+### Your first 3d animation
+
+> ✅ Save your current blender file, you will need it later
+
+#### Step 1 - it's cube all over again
+
+> - Create a new blender file 
+> - Remove the sun and the camera
+
+#### Step 2 - frame it
+
+> - Create a first keyframe
+> - Move your cube
+> - Create another keyframe
+> - Play the animation
+
+#### Step 3 - a matter of size
+
+> - On the second keyframe, double the size of your cube
+
+#### Step 4 - rotation
+
+> - On the second keyframe, rotate the cube 180 degrees
+
+#### Step 5 - linear is no good
+
+> - Make sure the cube bounces to it's second size
 
 ### Intro to rigging
 
