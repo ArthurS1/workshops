@@ -115,7 +115,7 @@ You can also just search [low poly on sketchfab](https://sketchfab.com/search?q=
 
 #### Step 2 - make leafs
 
-> - Create a eco sphere of radius 1.1 with 1 subdivision
+> - Create a ico sphere of radius 1.1 with 1 subdivision
 > - Move it to the coordinates (0, 0, 2)
 > - Randomize it's mesh
 
