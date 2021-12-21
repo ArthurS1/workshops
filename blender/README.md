@@ -77,10 +77,13 @@ and make precise modifications.
 
 ### Is low poly some kind of sect ?
 
-["Low poly"](https://fr.wikipedia.org/wiki/Low_poly) is short for low polygon count. It can be described from an aesthetic point or performance point of view :
+["Low poly"](https://fr.wikipedia.org/wiki/Low_poly) is short for low polygon count. It can be used for performances or aesthetics. 
 
-- In video games, game engines will take longer to render models with high polygon count. Thus, back in the early days of 3D games, low poly models were used as a way to gain performances.
-- Nowadays computers have munch beeffier cpus and even gpu. Consequently, low polygon models have lost their performance upperhand but have had a comeback with their use in more artistic and abstract games.
+Rendering engines will take longer to render models with high polygon count. Thus, back in the early days of 3D games, low poly models were used as a way to gain performances.
+
+> 💡 In blender, polygon count (or poly count) can be seen in the bottom left corner of the window for version < 2.9 and by checking statistics in the viewport overlay in newer versions. 
+
+Nowadays computers have a lot more performant cpus and gpus. Consequently, low polygon models have lost their performance interest. It is noteworthy that they  have had a comeback with their use in more artistic and abstract modeling (see below).
 
 Example of low poly [renders](https://en.wikipedia.org/wiki/3D_rendering):
 
