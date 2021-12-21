@@ -128,8 +128,8 @@ You can also just search [low poly on sketchfab](https://sketchfab.com/search?q=
 
 #### Step 4 - texturin' time
 
-> - Download the sample texture here
+> - Download the sample texture [here](https://epitechfr-my.sharepoint.com/:i:/g/personal/arthur1_soulie_epitech_eu/EVYnZICB-Q1AgVTYd9vrL5IBwivVhSb5xuYj0qeD40nN2Q?e=BaU3l7)
 > - Unwrap your two objects
-> - Asign the trunck to the brown pixel and the leafs to the green pixel
+> - Assign the trunck to the brown pixel and the leafs to the green pixel
 
 ## Animating models
