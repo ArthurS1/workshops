@@ -152,7 +152,9 @@ It's just like unfolding a box!
 
 #### Step 1 - delete them all
 
-> - Delete the cube and the sun in the default scene
+> - Delete the cube and the light in the default scene
+
+> 💡 the `C` and `B` keys could prove usefull ...
 
 #### Step 2 - make leafs
 
