@@ -160,7 +160,7 @@ It's just like unfolding a box!
 
 > - Create a ico sphere of radius 1.1 with 1 subdivision
 > - Move it to the coordinates (0, 0, 2)
-> - Randomize it's mesh
+> - Randomize it's mesh (you can play with it, but it should look like an imperfect ball in the end)
 
 #### Step 3 - the trunk
 
