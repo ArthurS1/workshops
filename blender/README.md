@@ -17,13 +17,16 @@
 	* Your first animation
 	* Introduction to rigging
 
-## Blender basics
+## Blender basicss
 
 ### What is Blender. Who are it's competitors ?
 
 - Blender is a **free** and **open source software** suite for 3d creation. While it is not an industry standard just yet, it is [backed by large corporations](https://fund.blender.org/) and has a good community. It's the most well known open source software of it's kind.
 - It's most often cited competitors I know of are [Autodesk's Maya and 3ds max](https://www.autodesk.com/) and [Cinema 4D](https://www.maxon.net/en/cinema-4d).
 - Even though there are [some addons](https://github.com/EleotleCram/blender-cad-tools) to do that, blender should not be used as a [CAD](https://en.wikipedia.org/wiki/Computer-aided_design) tool. You should look into [FreeCAD](https://www.freecadweb.org/) (FOSS), [AutoCAD](https://www.autodesk.com/products/autocad/overview) (proprietary) or [SolidWorks](https://www.solidworks.com/) (proprietary).
+
+The goal of this workshop is to make you try blender modeling and animation features.
+Keep in mind Blender has a lot more to offer, from 2dAnimation all the way to physics simulations and much more.
 
 ### Installation
 
