@@ -77,7 +77,7 @@ and make precise modifications.
 
 ### Is low poly some kind of sect ?
 
-["Low poly"](https://fr.wikipedia.org/wiki/Low_poly) is short for low polygon count.
+["Low poly"](https://en.wikipedia.org/wiki/Low_poly) is short for low polygon count.
 It can be used for performances or aesthetics. 
 
 Rendering engines will take longer to render models with high polygon count.
@@ -172,7 +172,7 @@ It's just like unfolding a box!
 
 ### 3d animation concepts
 
-[3d animation](https://fr.wikipedia.org/wiki/Animation_3D) is the way you can move vertices
+[3d animation](https://en.wikipedia.org/wiki/Computer_animation) is the way you can move vertices
 through time. To do so, you can specify several positions to a vertice called keyframes. The
 keyframes values are then interpolated the way you want to obtain movment.
 
