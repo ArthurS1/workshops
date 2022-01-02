@@ -48,7 +48,7 @@ Let's begin by a few important facts on the user interface :
 
 - Blender has a modular interface composed of multiple panels within a window.
 They can be resized, reordered, added, deleted or detatched. (try hovering your mouse on the corner of a pannel and dragging it)
-![Windows](https://i.postimg.cc/PqpWqxZ3/image.png)
+![Window](https://user-images.githubusercontent.com/33732772/147881176-37d469f9-5c15-40c9-a04e-f378aa827a62.png)
 
 - They are themself arranged within workspaces in the top bar.
 ![Workspaces bar](https://i.postimg.cc/sgWqZVpX/blender-workspaces.png)
