@@ -146,6 +146,9 @@ It's just like unfolding a box!
 
 ### Let's Practice
 
+> ✅ Make sure that the Z axis is upwards when modeling (check the tiny axis preview in the top right corner of the viewport)
+> 💡 There are a lot of shortcuts in blender, learning them will make you a lot faster but everything can be done via the gui if that's your kink.
+
 #### Step 1 - delete them all
 
 > - Delete the cube and the sun in the default scene
