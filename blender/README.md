@@ -250,9 +250,8 @@ Well there are a few ways of doing just that.
 
 #### Step 3 - steve walk cycle
 
-> - Download steve.blend and append (checkout the difference between appending and linking
-external blender libraries) it to your project with the tree
-> - Create an armature
+> - Create your own low poly character
+> - Add an armature
 > - Add bones
 > - Modify weights
 > - Make him walk !
