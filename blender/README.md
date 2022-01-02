@@ -171,7 +171,7 @@ It's just like unfolding a box!
 
 #### Step 3 - the trunk
 
-> - Create a new cube of 0.5m sides
+> - Create a new cube of 0.5m sides at (0, 0, 0)
 > - _Extrude_ it's top face to 1.5m to meet the leafs
 > - Resize the face you just extracted to 80% of it's original size
 > - Randomize the trunk
