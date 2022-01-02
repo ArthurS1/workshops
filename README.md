@@ -9,8 +9,7 @@ usefull in their following school projects.
 Learn the fundamentals of blender by :
 
 * practicing the creation of low poly models 
-* animating those models in 3d
-* exporting them unreal engine or unity 3d
+* animating models in 3d
 
 ## 🔨 Neovim Configuration
 
