@@ -162,6 +162,10 @@ It's just like unfolding a box!
 > - Move it to the coordinates (0, 0, 2)
 > - Randomize it's mesh (you can play with it, but it should look like an imperfect ball in the end)
 
+> 💡 checkout the edit and object mode
+
+> 💡 the `A` key could be usefull ...
+
 #### Step 3 - the trunk
 
 > - Create a new cube of 0.5m sides
