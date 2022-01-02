@@ -32,6 +32,7 @@ Keep in mind Blender has a lot more to offer, from 2dAnimation all the way to ph
 
 > ✅ Version required is **2.8** or superior. To check that do 
 `blender --version` or `flatpak run org.blender.Blender --version`.
+> ❗ At the moment of writing, there is a regression in mesa drivers on intel graphics causing flickering on the viewport.
 
 - Blender is open source so you should have it in the repositories of
 your distribution of choice.
