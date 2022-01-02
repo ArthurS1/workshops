@@ -199,6 +199,11 @@ It's just like unfolding a box!
 through time. To do so, you can specify several positions to a vertice called keyframes. The
 keyframes values are then interpolated the way you want to obtain movment.
 
+This means you just give to the computer two states at different frames (here the square size at frame 1 & 4) and it computes the rest (frames 2 & 3).
+
+![Keyframes](https://user-images.githubusercontent.com/33732772/147881356-e8034b3f-6049-4fc1-8304-9f2daebd9cca.png)
+
+
 ### Your first 3d animation
 
 > ✅ Save your current blender file, you will need it later
