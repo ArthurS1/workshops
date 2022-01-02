@@ -184,7 +184,7 @@ It's just like unfolding a box!
 > - Unwrap your two objects
 > - Assign the trunck to the brown pixel and the leafs to the green pixel
 
-#### 🏇 Bonus round (optional if you were to fast)
+#### 🏇 Bonus round (optional)
 
 > - Checkout blender render features
 > - Checkout blender lighting features
