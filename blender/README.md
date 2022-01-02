@@ -154,7 +154,7 @@ It's just like unfolding a box!
 
 > - Delete the cube and the light in the default scene
 
-> 💡 the `C` and `B` keys could prove usefull ...
+> 💡 the `C` or `B` and `X` keys could prove usefull ...
 
 #### Step 2 - make leafs
 
