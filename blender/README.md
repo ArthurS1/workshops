@@ -118,7 +118,7 @@ You can also just search [low poly on sketchfab](https://sketchfab.com/search?q=
 
 ### You said vertex ?
 
-Creating 3d objects is done using three basic atoms: vertices (one **vertex**, two **vertices**),edges and faces.
+**Creating 3d objects is done using three basic atoms: _vertices_ (one _vertex_, two _vertices_), _edges_ and _faces_.**
 Let's go through what they are.
 
 - A vertex is a simple point in 3d space. Here we create 3 vertices A, B and C. They All have 3 coordinates
