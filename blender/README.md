@@ -145,9 +145,11 @@ not end well ! [You can always triangulate you face after the fact anyway](https
 
 A texture is just a normal image. The difference is we specify that one or
 multiple faces of a 3d object will be mapped to some coordinates of this images.
-It's just like unfolding a box!
+In the case of a cube, it's just like unfolding a box!
 
 ![Texture unfolding animation](https://user-images.githubusercontent.com/33732772/147005866-28948274-638c-4b5f-a976-e4abbd7e6181.png)
+
+> 💡 The process of creating a 2d map of vertices is called _unwrapping_. Then you can do some _UV editing_ to adjust the result.
 
 ### Let's Practice
 
