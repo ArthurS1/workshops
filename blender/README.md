@@ -1,7 +1,5 @@
 # Blender basics workshop
 
-> 💡 Content of this workshop is work in progress
-
 ## 📙 What you will learn
 
 * Blender basics
@@ -17,7 +15,7 @@
 	* Your first animation
 	* Introduction to rigging
 
-## Blender basicss
+## Blender basics
 
 ### What is Blender. Who are it's competitors ?
 
