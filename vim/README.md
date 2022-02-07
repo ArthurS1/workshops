@@ -5,7 +5,7 @@
 ## 📙 What you will learn
 
 * Setup nvim
-	* Istallation
+	* Installation
 	* Cnfiguration
 * Use nvim
 	* Tutorial time
@@ -34,7 +34,7 @@
 
 ## Extend nvim
 
-### Themes! themes everywhere!
+### Themes! Themes everywhere!
 
 ### Lsp code completion
 
