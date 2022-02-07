@@ -4,15 +4,36 @@
 
 ## 📙 What you will learn
 
-* Setup neovim
-	* ed > vi > vim > nvim
-* Vim modes
-	* Is low poly some kind of sect ?
-* Animating models
-	* 3d animation concepts
-	* Your first animation
-	* Introduction to rigging
+* Setup nvim
+	* Istallation
+	* Cnfiguration
+* Use nvim
+	* Tutorial time
+	* Hello world!
+* Extend nvim
+	* Themes! themes everywhere!
+	* Lsp code completion
+	* Snippets
+	* File lookup
 
-## Setup Neovim
+## Setup nvim
 
-### ?
+### Installation
+
+### Configuration
+
+## Use nvim
+
+### Tutorial time
+
+### Hello world!
+
+## Extend nvim
+
+### Themes! themes everywhere!
+
+### Lsp code completion
+
+### Snippets
+
+### File lookup
