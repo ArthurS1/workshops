@@ -32,6 +32,13 @@
 
 ### Hello world!
 
+**To develop your muscle memory, you will need to write more code.**
+It takes more than a few hours to develop vi like editor muscle memory!
+
+You can now choose what you will do during the rest of the workshop. You can:
+- Keep going and extend nvim.
+- Make a pause and train your muscle memory. I recommand using [exercism](https://exercism.org) and doing exercises in a language you have already used.
+
 ## Extend nvim
 
 ### Themes! Themes everywhere!
