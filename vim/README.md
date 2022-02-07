@@ -18,11 +18,15 @@
 
 ## Setup nvim
 
+> 💡 You can also use vim but you will probably miss Lsp capability. There are plugins that do just that though!
+
 ### Installation
 
 ### Configuration
 
 ## Use nvim
+
+> 💡 `:help` is your best friend!
 
 ### Tutorial time
 
