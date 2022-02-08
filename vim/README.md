@@ -33,6 +33,7 @@
 
 **Step 1 - Vim tutor**
 > - Do the vim tutorial. You can access it by typing `:Tutor` in nvim or on [openvim](https://www.openvim.com/) if you want a nice gui.
+> - You can also use [vim-adventures](https://vim-adventures.com/) but i do not recommand it cause I am so bad at this.
 > - It takes about 30 minutes and will give you usefull (and sometimes less usefull) shortcuts to start with.
 
 ### Hello world!
