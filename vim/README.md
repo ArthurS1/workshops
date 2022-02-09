@@ -23,7 +23,14 @@
 
 ### Installation
 
+To install nvim, just use the package manager of your choice!
+You will find more instructions [here](https://github.com/neovim/neovim/wiki/Installing-Neovim).
+
 ### Configuration
+
+We will do basic configuration:
+
+
 
 ## Use nvim
 
