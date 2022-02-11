@@ -67,8 +67,30 @@ We will do basic configuration:
 
 ### Themes! Themes everywhere!
 
+**Step 4 - Add a plugin manager**
+> You can use whatever you want here. I recommand [VimPlug](https://github.com/junegunn/vim-plug).
+
+**Step 5 - Add a theme**
+> - Themes are bloat. You just need color to see different parts of statements and expressions.
+> - Well just install one. Or not. But install something else then.
+
 ### Lsp code completion
+
+**Step 6 - LSP is the future and it's included**
+
+**Step 7 - Add clang completion**
 
 ### Snippets
 
+**Step 8 - Install a snippet plugin**
+
 ### File lookup
+
+**Step 9 - Install a file lookup plugin**
+> Finding files so far might have been frustrating. You might have so far:
+> - Exited vim to re-enter changing cli argument.
+> - Used the command `:e [path]`.
+> 
+> There are better ways:
+> - Fzf
+> - NerdTree
