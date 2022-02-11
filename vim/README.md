@@ -4,19 +4,18 @@
 
 ## 📙 What you will learn
 
-* Setup nvim
+* It's a beginning
 	* Installation
-	* Configuration
-* Use nvim
- 	* Tutorial time
+	* Tutorial time
 	* Hello world!
+	* Basic configuration
 * Extend nvim
 	* Themes! themes everywhere!
 	* Lsp code completion
 	* Snippets
 	* File lookup
 
-## Setup nvim
+## It's a beginning
 
 > 💡 You can also use vim but you will probably miss Lsp capability.
 > There are plugins that do just that though!
@@ -25,16 +24,6 @@
 
 To install nvim, just use the package manager of your choice!
 You will find more instructions [here](https://github.com/neovim/neovim/wiki/Installing-Neovim).
-
-### Configuration
-
-We will do basic configuration:
-
-
-
-## Use nvim
-
-> 💡 `:help` is your best friend!
 
 ### Tutorial time
 
@@ -50,6 +39,21 @@ We will do basic configuration:
 > - Given a string of characters as parameter
 > - If it is an isogram return 0
 > - Else return 1.
+
+### Basic configuration
+
+We will do basic configuration:
+
+**Step 3 - Make it clean**
+> - Map the `<esc>` key to a more reachable key if needed (i use `<²>`)
+> - Make `(`, `[` and `{` autoclose without using plugins
+> - Map the `<esc>` key to close escape terminal mode (try `:terminal` in normal mode)
+> - Show line numbers, or better: show relative line numbers !
+> - Move swap files to another default location (e.g `~/.config/nvim/tmp/`)
+> - Make every tab 4 spaces
+> - Setup fold methods
+
+> 💡 `:help` is your best friend!
 
 **Choose your path**
 > 💡 **To develop your muscle memory, you will need to write more code.**
