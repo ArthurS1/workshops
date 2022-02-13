@@ -90,6 +90,7 @@ We will do basic configuration:
 
 **Step 8 - Install a snippet plugin**
 > - Install a snippet plugin.
+> - Create at least 1 snippet that creates a main function when you type `int main` for c programs.
 > I recommand `cmp-vsnip`.
 
 ### File lookup
