@@ -56,7 +56,7 @@ We will do basic configuration:
 > 💡 `:help` is your best friend!
 
 **Choose your path**
-> 💡 **To develop your muscle memory, you will need to write more code.**
+> 🔀 **To develop your muscle memory, you will need to write more code.**
 > It takes more than a few hours to develop vi like editor muscle memory!
 
 > You can now choose what you will do during the rest of the workshop. You can:
@@ -74,15 +74,23 @@ We will do basic configuration:
 > - Themes are bloat. You just need color to see different parts of statements and expressions.
 > - Well just install one. Or not. But install something else then.
 
+> 🔀 **You can do the next steps in any order.** Choose whatever picks your interest!
+
 ### Lsp code completion
 
 **Step 6 - LSP is the future and it's included**
+> - Check `:help lsp` and add lsp support to your nvim.
 
 **Step 7 - Add clang completion**
+> - Add clang and at least one other language server.
+> - You can checkout a list of curated language servers on the [nvim-lsp-config repo](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md).
+> I recommand `nvim-cmp`.
 
 ### Snippets
 
 **Step 8 - Install a snippet plugin**
+> - Install a snippet plugin.
+> I recommand `cmp-vsnip`.
 
 ### File lookup
 
